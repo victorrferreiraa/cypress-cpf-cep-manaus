@@ -23,9 +23,11 @@ Este projeto contém um script de testes automatizados em Cypress que realiza o 
 
 ---
 
-## Instalação
+## Instalação/Execução
 
 ```bash
 git clone https://github.com/victorrferreiraa/cypress-cpf-cep-manaus.git
 cd cypress-cpf-cep-manaus
 npm install
+npm run cypress:open
+
